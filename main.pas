@@ -1,4 +1,4 @@
-PROGRAM finalmainprog;
+PROGRAM main;
 
   USES
     CRT,SYSUTILS,VPUTILS;
@@ -2595,3 +2595,4 @@ PROGRAM finalmainprog;
     LoginSystem;
     CloseFiles;
   END.
+
