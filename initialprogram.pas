@@ -1,4 +1,4 @@
-PROGRAM initialised;
+PROGRAM initialprogram;
 
   USES
     CRT,SYSUTILS,VPUTILS;
@@ -939,6 +939,7 @@ PROGRAM initialised;
     closefiles;
     READLN;
   END.
+
 
 
 
