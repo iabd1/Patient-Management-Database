@@ -1,4 +1,4 @@
-# Patient-Management-System
+# Patient-Management-Database
 Some of the libraries used in my project are exclusive to Virtual Pascal. Hence, although outdated, Virtual Pascal provides the functionality needed to complete this project.
 
 First, copy this URL into your browser to download the Pascal compiler:
