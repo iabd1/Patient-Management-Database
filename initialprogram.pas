@@ -136,7 +136,7 @@ PROGRAM initialprogram;
     VAR
       directory:STRING;
     BEGIN
-      directory:=PickDrive+':\COMPUTER SCIENCE\coursework\';
+      directory:=PickDrive+':\Computer Science\Projects\';
 
       ASSIGN(loginfile,directory+'login.dta');
       REWRITE(loginfile);
@@ -939,6 +939,7 @@ PROGRAM initialprogram;
     closefiles;
     READLN;
   END.
+
 
 
 
