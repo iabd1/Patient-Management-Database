@@ -137,7 +137,7 @@ PROGRAM mainprogram;
     VAR // opens all files
       directory:STRING;
     BEGIN
-      directory:=PickDrive+':\COMPUTER SCIENCE\coursework\';
+      directory:=PickDrive+':\Computer Science\Projects\';
 
       ASSIGN(loginfile,directory+'login.dta');
       RESET(loginfile);
@@ -2595,5 +2595,6 @@ PROGRAM mainprogram;
     LoginSystem;
     CloseFiles;
   END.
+
 
 
