@@ -19,7 +19,7 @@ After installing, head to your directory and navigate to the "vp21" folder. Insi
 
 Press Enter until the message disappears. You will see the File menu at the top left of the screen. Use the left and right arrow keys to navigate through the menu. Once you have selected file, press enter and press the down arrow to select new. (To return to the top menu bar at any time, press F10.) 
 
-Once you have selected new, copy the initialprogram code from the depository. To paste the code in the IDE, press click inside the editor window and press Shift+Insert. (Repeat this process in the main file.) 
+Once you have selected new, copy the initialprogram code from the repository. To paste the code in the IDE, press click inside the editor window and press Shift+Insert. (Repeat this process in the main file.) 
 
 Remember to run the initialprogram file before running the mainprogram file, as the test data must be initalised before being used. Likewise, if records are wiped due to an unforeseen circumstance, rerunning the initialprogram file will restore the test data.
 
