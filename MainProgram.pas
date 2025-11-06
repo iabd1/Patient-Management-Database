@@ -1,4 +1,4 @@
-PROGRAM mainprogram;
+PROGRAM MainProgram;
 
   USES
     CRT,SYSUTILS,VPUTILS;
@@ -2595,6 +2595,7 @@ PROGRAM mainprogram;
     LoginSystem;
     CloseFiles;
   END.
+
 
 
 
