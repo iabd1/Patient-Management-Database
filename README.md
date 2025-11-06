@@ -15,7 +15,7 @@ After the download is complete, extract the files. Open the extracted folder, an
 
 Read and accept the license agreement, then press ALT + R, followed by Enter, to install the IDE.
 
-After installing, head to your directory and navigate to the "vp21" folder. Inside, open "bin.w32", then scroll until you reach the "vp" application. Right click vp and let it run as administrator, allowing it to make changes when necessary.
+After installing, head to your directory and navigate to the "vp21" folder. Inside, open "bin.w32", then scroll until you reach the "vp" application. Right click "vp" and let it run as administrator, allowing it to make changes when necessary.
 
 Press Enter until the message disappears. You will see the File menu at the top left of the screen. Use the left and right arrow keys to navigate through the menu. Once you have selected file, press enter and press the down arrow to select new. (To return to the top menu bar at any time, press F10.) 
 
@@ -24,10 +24,15 @@ Once you have selected new, copy the initialprogram code from the repository. To
 Remember to run the initialprogram file before running the mainprogram file, as the test data must be initalised before being used. Likewise, if records are wiped due to an unforeseen circumstance, rerunning the initialprogram file will restore the test data.
 
 Useful Editor Shortcuts:
+
   Undo: Alt+Backspace
+  
   Redo: Alt+Shift+Backspace
+  
   Save: Ctrl+K+S or Shift+F2
+  
   Open File: Shift+F3 or F3
+  
   Close File: Alt+F3
 
 For additional help, navigate to the Help menu, select Previous Topic, and open Editor Commands to view all available shortcuts and commands.
